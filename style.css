@@ -2,13 +2,25 @@ body {
   min-height: 2000px;
 }
 
+.navbar .jumbotron #project {
+  background-image: url("img/starss.jpg");
+}
+
+.navbar {
+  background-image: url("img/starss.jpg");
+}
+
 .jumbotron {
-  padding-top: 6rem;
-  background-color: #eee8aa;
+  padding-top: 10rem;
+  background-image: url("img/starss.jpg");
+}
+
+#about {
+  background-color: black;
 }
 
 #project {
-  background-color: #eee8aa;
+  background-image: url("img/starss.jpg");
 }
 section {
   padding-top: 5rem;
